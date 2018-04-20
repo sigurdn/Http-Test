@@ -14,7 +14,7 @@ object Form1: TForm1
   PixelsPerInch = 96
   TextHeight = 13
   object LabeledEdit1: TLabeledEdit
-    Left = 96
+    Left = 64
     Top = 40
     Width = 121
     Height = 21
@@ -24,7 +24,7 @@ object Form1: TForm1
     TabOrder = 0
   end
   object LabeledEdit2: TLabeledEdit
-    Left = 88
+    Left = 64
     Top = 88
     Width = 121
     Height = 21
@@ -34,8 +34,8 @@ object Form1: TForm1
     TabOrder = 1
   end
   object Button1: TButton
-    Left = 272
-    Top = 72
+    Left = 344
+    Top = 86
     Width = 75
     Height = 25
     Caption = 'Button1'
